@@ -1,0 +1,4 @@
+This is first git file after init 
+
+
+git hub is not eadsy 
