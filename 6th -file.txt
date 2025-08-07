@@ -9,5 +9,9 @@ i pulled in users account
 ok lets make the chnges 
 =======
 
+<<<<<<< Updated upstream
+chnages for # 100
+>>>>>>> Stashed changes
+=======
 chnages for # 100
 >>>>>>> Stashed changes
