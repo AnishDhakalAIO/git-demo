@@ -4,3 +4,5 @@ iam going to pull in both the users account
 
 now i will be practicing 
 git stash commad 
+
+* stach  # 100 
